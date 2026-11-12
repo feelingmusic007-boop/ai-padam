@@ -42,3 +42,7 @@ See CONTRIBUTING.md. This initial code was generated with AI assistance and shou
 ## License
 
 MIT. See LICENSE.
+
+## Phase 2 update
+
+Six lessons now cover writing, image prompts, learning, better prompts, privacy/accuracy, and translation. Hindi is available alongside Malayalam and English, including lesson search. Progress totals reflect the expanded library. All translations remain drafts for fluent-speaker review. Earlier references to three lessons and two languages describe the initial version.
